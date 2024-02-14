@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- event_index master document -->
+<data type="master" id="ARHREI9IQEX" mnem="EI" name="event_index" source="sportsData" version="1.2.15" category="HR" country="AR" sportcode="PA" date="2019-06-29" timestamp="1561762807013" expiry="2029-07-06T00:00:00" route="4D41494E" xmlns="http://www.satelliteinfo.co.uk/feed/master/hrdg" xmlns:hrdg="http://www.satelliteinfo.co.uk/feed/master/hrdg" book="SD">
+  <meeting name="Palermo" code="9IQEX" country="AR" date="2019-06-29" status="O" sportcode="PA" events="14" going="FAST">
+    <event name="1m Stakes" id="2680122" num="4" time="18:30:00" status="O" distance="7f 210yds" surface="A" going="FAST" offTime="18:33:30" progressCode="O" pmsg="OFF  6:33:30">
+    </event>
+    <event name="1m Stakes" id="2680124" num="6" time="19:30:00" status="O" distance="7f 210yds" surface="A" going="FAST" offTime="19:38:35" progressCode="O" pmsg="OFF  7:38:35">
+    </event>
+    <event name="7f Stakes" id="2680130" num="12" time="22:40:00" status="O" distance="6f 211yds" surface="A" going="FAST" offTime="23:03:51" progressCode="O" pmsg="OFF 11:03:51">
+    </event>
+    <event name="1m Stakes" id="2680132" num="14" time="23:40:00" status="O" distance="7f 210yds" surface="A" going="FAST" offTime="00:04:36" progressCode="O" pmsg="OFF 12:04:36">
+    </event>
+    <event name="1m Stakes" id="2680125" num="7" time="20:00:00" status="O" distance="7f 210yds" surface="A" going="FAST" offTime="20:11:43" progressCode="O" pmsg="OFF  8:11:43">
+    </event>
+    <event name="1m 2f Stakes" id="2680127" num="9" time="21:10:00" status="O" distance="1m 1f 207yds" surface="A" going="FAST" offTime="21:29:38" progressCode="O" pmsg="OFF  9:29:38">
+    </event>
+    <event name="1m 2f Stakes" id="2680129" num="11" time="22:10:00" status="O" distance="1m 1f 207yds" surface="A" going="FAST" offTime="22:34:12" progressCode="O" pmsg="OFF 10:34:12">
+    </event>
+    <event name="1m Stakes" id="2680131" num="13" time="23:10:00" status="O" distance="7f 210yds" surface="A" going="FAST" offTime="23:32:50" progressCode="O" pmsg="OFF 11:32:50">
+    </event>
+    <event name="1m Stakes" id="2680120" num="2" time="17:30:00" status="O" distance="7f 210yds" surface="A" going="FAST" offTime="17:32:43" progressCode="O" pmsg="OFF  5:32:43">
+    </event>
+    <event name="1m 3f Stakes" id="2680126" num="8" time="20:40:00" status="O" distance="1m 2f 206yds" surface="A" going="FAST" offTime="20:59:07" progressCode="O" pmsg="OFF  8:59:07">
+    </event>
+    <event name="6f HCap" id="2680136" num="10" time="21:40:00" status="O" distance="5f 212yds" surface="A" going="FAST" offTime="22:04:25" progressCode="O" pmsg="OFF 10:04:25">
+    </event>
+    <event name="1m Stakes" id="2680119" num="1" time="17:00:00" status="O" distance="7f 210yds" surface="A" offTime="17:01:52" progressCode="O" pmsg="OFF  5:01:52">
+    </event>
+    <event name="5f Stakes" id="2680121" num="3" time="18:00:00" status="O" distance="4f 214yds" surface="A" going="FAST" offTime="18:03:41" progressCode="O" pmsg="OFF  6:03:41">
+    </event>
+    <event name="7f Stakes" id="2680123" num="5" time="19:00:00" status="O" distance="6f 211yds" surface="A" going="FAST" offTime="19:09:19" progressCode="O" pmsg="OFF  7:09:19">
+    </event>
+  </meeting>
+</data>

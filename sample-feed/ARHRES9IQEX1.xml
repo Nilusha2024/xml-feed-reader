@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- event ODEC master document -->
+<data type="master" odec="Y" id="ARHRES9IQEX1" mnem="ES" name="event" source="sportsData" version="1.2.15" category="HR" country="AR" sportcode="PA" date="2019-06-29" timestamp="1561762807028" expiry="2029-07-06T17:00:00" route="4D41494E" xmlns="http://www.satelliteinfo.co.uk/feed/master/hrdg" xmlns:hrdg="http://www.satelliteinfo.co.uk/feed/master/hrdg" book="SD">
+  <meeting name="Palermo" code="9IQEX" country="AR" date="2019-06-29" sportcode="PA" subcode="FL" coverageCode="T" events="14" __key="code" going="FAST">
+    <event name="1m Stakes" id="2680119" num="1" time="17:00:00" placesExpected="3" eachWayPlaces="3" coverageCode="T" courseType="F" grade="4" handicap="N" status="O" runners="9" distance="7f 210yds" surface="A" __key="id" offTime="17:01:52" progressCode="O" pmsg="OFF  5:01:52">
+      <selection name="Valiant Girl" id="45431516" num="1" drawn="1" status="G" jockey="C Noriega" weightStones="8" weightPounds="7" claiming="(9)" age="4" trainer="R Buonocore" lastRuns="889735" __key="id">
+        <price id="38367031" time="16:55:13" fract="33/1" dec="34.0000" mktnum="0" mkttype="B" timestamp="1561823713582" __key="id">
+        </price>
+        <price id="38367207" time="17:06:01" fract="33/1" dec="34.0000" mktnum="0" mkttype="S" timestamp="1561824362806" __key="id">
+        </price>
+        <price id="38367298" time="17:11:52" fract="33/1" dec="34.0000" mktnum="0" mkttype="S" timestamp="1561824713205" __key="id">
+        </price>
+      </selection>
+      <selection name="Fina Huichen" id="45431517" num="2" drawn="2" status="G" jockey="F Gimenez" weightStones="8" weightPounds="13" claiming="(9)" age="4" trainer="R Gutierrez" lastRuns="213280" __key="id">
+        <price id="38367060" time="16:55:13" fract="9/2" dec="5.5000" mktnum="0" mkttype="B" timestamp="1561823713582" __key="id">
+        </price>
+        <price id="38367153" time="17:00:18" fract="5/1" dec="6.0000" mktnum="1" mkttype="B" timestamp="1561824018838" __key="id">
+        </price>
+        <price id="38367168" time="17:01:30" fract="11/2" dec="6.5000" mktnum="1" mkttype="B" timestamp="1561824090725" __key="id">
+        </price>
+        <price id="38367224" time="17:06:01" fract="11/2" dec="6.5000" mktnum="0" mkttype="S" timestamp="1561824362807" __key="id">
+        </price>
+        <price id="38367299" time="17:11:52" fract="11/2" dec="6.5000" mktnum="0" mkttype="S" timestamp="1561824713205" __key="id">
+        </price>
+      </selection>
+      <selection name="J Be Ana" id="45431522" num="3" drawn="3" status="G" jockey="R Barrueco" weightStones="8" weightPounds="13" age="4" trainer="C Aguirre" lastRuns="615565" __key="id">
+        <price id="38367061" time="16:55:13" fract="25/1" dec="26.0000" mktnum="0" mkttype="B" timestamp="1561823713583" __key="id">
+        </price>
+        <price id="38367147" time="16:59:06" fract="28/1" dec="29.0000" mktnum="1" mkttype="B" timestamp="1561823946459" __key="id">
+        </price>
+        <price id="38367159" time="17:00:38" fract="33/1" dec="34.0000" mktnum="1" mkttype="B" timestamp="1561824038908" __key="id">
+        </price>
+        <price id="38367225" time="17:06:01" fract="33/1" dec="34.0000" mktnum="0" mkttype="S" timestamp="1561824362807" __key="id">
+        </price>
+        <price id="38367300" time="17:11:52" fract="33/1" dec="34.0000" mktnum="0" mkttype="S" timestamp="1561824713206" __key="id">
+        </price>
+      </selection>
+      <selection name="Fantasia Gaucha" id="45431513" num="4" drawn="4" status="G" jockey="F Goncalves" weightStones="8" weightPounds="13" age="4" trainer="M Velazquez" lastRuns="13" __key="id">
+        <price id="38367062" time="16:55:13" fract="10/3" dec="4.3333" mktnum="0" mkttype="B" timestamp="1561823713582" __key="id">
+        </price>
+        <price id="38367113" time="16:57:10" fract="7/2" dec="4.5000" mktnum="1" mkttype="B" timestamp="1561823830655" __key="id">
+        </price>
+        <price id="38367226" time="17:06:01" fract="7/2" dec="4.5000" mktnum="0" mkttype="S" timestamp="1561824362806" __key="id">
+        </price>
+        <price id="38367301" time="17:11:52" fract="7/2" dec="4.5000" mktnum="0" mkttype="S" timestamp="1561824713205" __key="id">
+        </price>
+      </selection>
+      <selection name="Orchidea" id="45431518" num="5" drawn="5" status="G" jockey="W Moreyra" weightStones="8" weightPounds="13" age="4" trainer="J Etchechoury" lastRuns="215" __key="id">
+        <price id="38367063" time="16:55:13" fract="1/1" dec="2.0000" mktnum="0" mkttype="B" timestamp="1561823713582" __key="id">
+        </price>
+        <price id="38367114" time="16:57:10" fract="10/11" dec="1.9091" mktnum="1" mkttype="B" timestamp="1561823830655" __key="id">
+        </price>
+        <price id="38367143" time="16:59:02" fract="5/6" dec="1.8333" mktnum="1" mkttype="B" timestamp="1561823942906" __key="id">
+        </price>
+        <price id="38367150" time="16:59:44" fract="4/5" dec="1.8000" mktnum="1" mkttype="B" timestamp="1561823984578" __key="id">
+        </price>
+        <price id="38367158" time="17:00:18" fract="8/11" dec="1.7273" mktnum="1" mkttype="B" timestamp="1561824018839" __key="id">
+        </price>
+        <price id="38367169" time="17:01:30" fract="4/6" dec="1.6667" mktnum="1" mkttype="B" timestamp="1561824090725" __key="id">
+        </price>
+        <price id="38367227" time="17:06:01" fract="4/6" dec="1.6667" mktnum="0" mkttype="S" timestamp="1561824362807" __key="id">
+        </price>
+        <price id="38367302" time="17:11:52" fract="4/6" dec="1.6667" mktnum="0" mkttype="S" timestamp="1561824713205" __key="id">
+        </price>
+      </selection>
+      <selection name="Nueva Receta" id="45431519" num="6" drawn="6" status="G" jockey="E Coronel" weightStones="8" weightPounds="13" claiming="(7)" age="4" trainer="J Fren" lastRuns="714588" __key="id">
+        <price id="38367064" time="16:55:13" fract="28/1" dec="29.0000" mktnum="0" mkttype="B" timestamp="1561823713582" __key="id">
+        </price>
+        <price id="38367124" time="16:57:36" fract="33/1" dec="34.0000" mktnum="1" mkttype="B" timestamp="1561823857109" __key="id">
+        </price>
+        <price id="38367151" time="16:59:44" fract="40/1" dec="41.0000" mktnum="1" mkttype="B" timestamp="1561823984578" __key="id">
+        </price>
+        <price id="38367170" time="17:01:30" fract="50/1" dec="51.0000" mktnum="1" mkttype="B" timestamp="1561824090725" __key="id">
+        </price>
+        <price id="38367228" time="17:06:01" fract="50/1" dec="51.0000" mktnum="0" mkttype="S" timestamp="1561824362807" __key="id">
+        </price>
+        <price id="38367303" time="17:11:52" fract="50/1" dec="51.0000" mktnum="0" mkttype="S" timestamp="1561824713205" __key="id">
+        </price>
+      </selection>
+      <selection name="Marchala" id="45431521" num="7" drawn="7" status="G" jockey="P Falero" weightStones="8" weightPounds="13" age="4" trainer="L Cerutti" lastRuns="342441" __key="id">
+        <price id="38367065" time="16:55:13" fract="9/2" dec="5.5000" mktnum="0" mkttype="B" timestamp="1561823713583" __key="id">
+        </price>
+        <price id="38367229" time="17:06:01" fract="9/2" dec="5.5000" mktnum="0" mkttype="S" timestamp="1561824362807" __key="id">
+        </price>
+        <price id="38367304" time="17:11:52" fract="9/2" dec="5.5000" mktnum="0" mkttype="S" timestamp="1561824713206" __key="id">
+        </price>
+      </selection>
+      <selection name="Cyntaho" id="45431523" num="8" drawn="8" status="G" jockey="M Valle" weightStones="8" weightPounds="13" age="4" trainer="I Diaz" lastRuns="445500" __key="id">
+        <price id="38367066" time="16:55:13" fract="12/1" dec="13.0000" mktnum="0" mkttype="B" timestamp="1561823713583" __key="id">
+        </price>
+        <price id="38367115" time="16:57:10" fract="14/1" dec="15.0000" mktnum="1" mkttype="B" timestamp="1561823830655" __key="id">
+        </price>
+        <price id="38367146" time="16:59:02" fract="18/1" dec="19.0000" mktnum="1" mkttype="B" timestamp="1561823942906" __key="id">
+        </price>
+        <price id="38367152" time="16:59:44" fract="22/1" dec="23.0000" mktnum="1" mkttype="B" timestamp="1561823984578" __key="id">
+        </price>
+        <price id="38367162" time="17:00:38" fract="28/1" dec="29.0000" mktnum="1" mkttype="B" timestamp="1561824038908" __key="id">
+        </price>
+        <price id="38367171" time="17:01:30" fract="33/1" dec="34.0000" mktnum="1" mkttype="B" timestamp="1561824090725" __key="id">
+        </price>
+        <price id="38367230" time="17:06:01" fract="33/1" dec="34.0000" mktnum="0" mkttype="S" timestamp="1561824362808" __key="id">
+        </price>
+        <price id="38367305" time="17:11:52" fract="33/1" dec="34.0000" mktnum="0" mkttype="S" timestamp="1561824713206" __key="id">
+        </price>
+      </selection>
+      <selection name="Scary Moon" id="45431520" num="9" drawn="9" status="G" jockey="O Alderete" weightStones="8" weightPounds="13" age="4" trainer="L Cerutti" lastRuns="51" __key="id">
+        <price id="38367067" time="16:55:13" fract="12/1" dec="13.0000" mktnum="0" mkttype="B" timestamp="1561823713583" __key="id">
+        </price>
+        <price id="38367163" time="17:00:38" fract="10/1" dec="11.0000" mktnum="1" mkttype="B" timestamp="1561824038908" __key="id">
+        </price>
+        <price id="38367231" time="17:06:01" fract="10/1" dec="11.0000" mktnum="0" mkttype="S" timestamp="1561824362807" __key="id">
+        </price>
+        <price id="38367306" time="17:11:52" fract="10/1" dec="11.0000" mktnum="0" mkttype="S" timestamp="1561824713205" __key="id">
+        </price>
+      </selection>
+      <bar>
+      </bar>
+      <result id="4290534" favouritenews="WINNER" comments="4TH NO.1 33/1" weighedIn="17:11:28" nonrunners="0" ran="9" settlingstatus="R" statuscode="W" message="Weighed In">
+        <position num="1" id="11796410" fav="Fav" runnernumber="5" trainer="J Etchechoury" name="Orchidea" position="1" photo="N" selectionref="45431518" sp="4/6" />
+        <position num="2" id="11796415" runnernumber="4" name="Fantasia Gaucha" position="2" photo="N" selectionref="45431513" sp="7/2" />
+        <position num="3" id="11796417" runnernumber="9" name="Scary Moon" position="3" photo="N" selectionref="45431520" sp="10/1" />
+      </result>
+      <racebet id="9168839" bettype="F" amount="4.35" instance="1" type="csf">
+        <betplace position="1" id="11123540" selectionid="45431518" amount="0" />
+        <betplace position="2" id="11123541" selectionid="45431513" amount="0" />
+      </racebet>
+      <market time="16:55:13" id="3029476" mkttype="B" supplier="S" mktnum="0" />
+      <market time="16:57:10" id="3029481" mkttype="B" supplier="S" mktnum="1" />
+      <market time="17:06:02" id="3029489" fieldmoney="135.66" mkttype="S" supplier="S" mktnum="0" />
+    </event>
+  </meeting>
+</data>

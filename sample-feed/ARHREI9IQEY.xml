@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- event_index master document -->
+<data type="master" id="ARHREI9IQEY" mnem="EI" name="event_index" source="sportsData" version="1.2.15" category="HR" country="AR" sportcode="PA" date="2019-06-30" timestamp="1561849211814" expiry="2029-07-07T00:00:00" route="4D41494E" xmlns="http://www.satelliteinfo.co.uk/feed/master/hrdg" xmlns:hrdg="http://www.satelliteinfo.co.uk/feed/master/hrdg" book="SD">
+  <meeting name="Palermo" code="9IQEY" country="AR" date="2019-06-30" status="O" sportcode="PA" going="FAST">
+    <event name="5f Stakes" id="2680133" num="1" time="00:10:00" status="O" distance="4f 214yds" offTime="00:40:19" progressCode="O" pmsg="OFF 12:40:19">
+    </event>
+    <event name="7f Stakes" id="2680134" num="2" time="00:40:00" status="O" distance="6f 211yds" offTime="01:11:28" progressCode="O" pmsg="OFF  1:11:28">
+    </event>
+    <event name="1m Stakes" id="2680135" num="3" time="01:10:00" status="O" distance="7f 210yds" offTime="01:39:42" progressCode="O" pmsg="OFF  1:39:42">
+    </event>
+  </meeting>
+</data>

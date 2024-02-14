@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- event ODEC master document -->
+<data type="master" odec="Y" id="ARHRES9IQEX2" mnem="ES" name="event" source="sportsData" version="1.2.15" category="HR" country="AR" sportcode="PA" date="2019-06-29" timestamp="1561762807036" expiry="2029-07-06T17:30:00" route="4D41494E" xmlns="http://www.satelliteinfo.co.uk/feed/master/hrdg" xmlns:hrdg="http://www.satelliteinfo.co.uk/feed/master/hrdg" book="SD">
+  <meeting name="Palermo" code="9IQEX" country="AR" date="2019-06-29" sportcode="PA" subcode="FL" coverageCode="T" events="14" going="FAST" __key="code">
+    <event name="1m Stakes" id="2680120" num="2" time="17:30:00" placesExpected="3" eachWayPlaces="3" coverageCode="T" courseType="F" grade="4" handicap="N" status="O" distance="7f 210yds" surface="A" runners="9" going="FAST" __key="id" offTime="17:32:43" progressCode="O" pmsg="OFF  5:32:43">
+      <selection name="La Sabanera" id="45431524" num="1" drawn="1" jockey="C Quiles" weightStones="8" weightPounds="9" age="2" trainer="G Britos" lastRuns="05" status="N">
+      </selection>
+      <selection name="Eladia Vuelve" id="45431532" num="2" drawn="2" status="G" jockey="E Ruarte" weightStones="8" weightPounds="9" age="2" trainer="N Gaitan" lastRuns="3223" __key="id">
+        <price id="38367390" time="17:25:09" fract="6/1" dec="7.0000" mktnum="0" mkttype="B" timestamp="1561825510278" __key="id">
+        </price>
+        <price id="38367427" time="17:27:30" fract="7/1" dec="8.0000" mktnum="1" mkttype="B" timestamp="1561825651216" __key="id">
+        </price>
+        <price id="38367560" time="17:37:32" fract="7/1" dec="8.0000" mktnum="0" mkttype="S" timestamp="1561826253163" __key="id">
+        </price>
+        <price id="38367640" time="17:44:15" fract="7/1" dec="8.0000" mktnum="0" mkttype="S" timestamp="1561826656098" __key="id">
+        </price>
+      </selection>
+      <selection name="Elisa Gal" id="45431533" num="3" drawn="3" status="G" jockey="W Pereyra" weightStones="8" weightPounds="9" age="2" trainer="L Marsiglia" __key="id">
+        <price id="38367391" time="17:25:09" fract="50/1" dec="51.0000" mktnum="0" mkttype="B" timestamp="1561825510278" __key="id">
+        </price>
+        <price id="38367435" time="17:29:41" fract="66/1" dec="67.0000" mktnum="1" mkttype="B" timestamp="1561825782065" __key="id">
+        </price>
+        <price id="38367561" time="17:37:32" fract="66/1" dec="67.0000" mktnum="0" mkttype="S" timestamp="1561826253163" __key="id">
+        </price>
+        <price id="38367641" time="17:44:15" fract="66/1" dec="67.0000" mktnum="0" mkttype="S" timestamp="1561826656098" __key="id">
+        </price>
+      </selection>
+      <selection name="Cosita Nostra" id="45431530" num="4" drawn="4" status="G" jockey="A Domingos" weightStones="8" weightPounds="9" age="2" trainer="E Tadei" lastRuns="39" __key="id">
+        <price id="38367392" time="17:25:09" fract="8/1" dec="9.0000" mktnum="0" mkttype="B" timestamp="1561825510277" __key="id">
+        </price>
+        <price id="38367432" time="17:28:16" fract="9/1" dec="10.0000" mktnum="1" mkttype="B" timestamp="1561825696811" __key="id">
+        </price>
+        <price id="38367562" time="17:37:32" fract="9/1" dec="10.0000" mktnum="0" mkttype="S" timestamp="1561826253163" __key="id">
+        </price>
+        <price id="38367642" time="17:44:15" fract="9/1" dec="10.0000" mktnum="0" mkttype="S" timestamp="1561826656097" __key="id">
+        </price>
+      </selection>
+      <selection name="Joy Beautiful" id="45431525" num="5" drawn="5" status="G" jockey="G Bellocq" weightStones="8" weightPounds="9" age="2" trainer="J Etchechoury" lastRuns="64" __key="id">
+        <price id="38367393" time="17:25:09" fract="16/1" dec="17.0000" mktnum="0" mkttype="B" timestamp="1561825510276" __key="id">
+        </price>
+        <price id="38367450" time="17:29:41" fract="20/1" dec="21.0000" mktnum="1" mkttype="B" timestamp="1561825782065" __key="id">
+        </price>
+        <price id="38367475" time="17:31:15" fract="22/1" dec="23.0000" mktnum="1" mkttype="B" timestamp="1561825875607" __key="id">
+        </price>
+        <price id="38367563" time="17:37:32" fract="22/1" dec="23.0000" mktnum="0" mkttype="S" timestamp="1561826253162" __key="id">
+        </price>
+        <price id="38367643" time="17:44:15" fract="22/1" dec="23.0000" mktnum="0" mkttype="S" timestamp="1561826656096" __key="id">
+        </price>
+      </selection>
+      <selection name="Funguera" id="45431527" num="6" drawn="6" status="G" jockey="P Falero" weightStones="8" weightPounds="9" age="2" trainer="S Frenkel" lastRuns="3" __key="id">
+        <price id="38367394" time="17:25:09" fract="11/4" dec="3.7500" mktnum="0" mkttype="B" timestamp="1561825510277" __key="id">
+        </price>
+        <price id="38367564" time="17:37:32" fract="11/4" dec="3.7500" mktnum="0" mkttype="S" timestamp="1561826253162" __key="id">
+        </price>
+        <price id="38367644" time="17:44:15" fract="11/4" dec="3.7500" mktnum="0" mkttype="S" timestamp="1561826656097" __key="id">
+        </price>
+      </selection>
+      <selection name="Ever Beautiful" id="45431526" num="7" drawn="7" status="G" jockey="P Ortega" weightStones="8" weightPounds="9" age="2" trainer="F Martin" lastRuns="2" __key="id">
+        <price id="38367395" time="17:25:09" fract="10/3" dec="4.3333" mktnum="0" mkttype="B" timestamp="1561825510277" __key="id">
+        </price>
+        <price id="38367428" time="17:27:30" fract="3/1" dec="4.0000" mktnum="1" mkttype="B" timestamp="1561825651216" __key="id">
+        </price>
+        <price id="38367433" time="17:28:16" fract="11/4" dec="3.7500" mktnum="1" mkttype="B" timestamp="1561825696811" __key="id">
+        </price>
+        <price id="38367565" time="17:37:32" fract="11/4" dec="3.7500" mktnum="0" mkttype="S" timestamp="1561826253162" __key="id">
+        </price>
+        <price id="38367645" time="17:44:15" fract="11/4" dec="3.7500" mktnum="0" mkttype="S" timestamp="1561826656097" __key="id">
+        </price>
+      </selection>
+      <selection name="Beauty Romance" id="45431528" num="8" drawn="8" status="G" jockey="W Moreyra" weightStones="8" weightPounds="9" age="2" trainer="N Mayansky" lastRuns="2" __key="id">
+        <price id="38367396" time="17:25:09" fract="7/2" dec="4.5000" mktnum="0" mkttype="B" timestamp="1561825510277" __key="id">
+        </price>
+        <price id="38367476" time="17:31:15" fract="4/1" dec="5.0000" mktnum="1" mkttype="B" timestamp="1561825875607" __key="id">
+        </price>
+        <price id="38367566" time="17:37:32" fract="4/1" dec="5.0000" mktnum="0" mkttype="S" timestamp="1561826253162" __key="id">
+        </price>
+        <price id="38367646" time="17:44:15" fract="4/1" dec="5.0000" mktnum="0" mkttype="S" timestamp="1561826656097" __key="id">
+        </price>
+      </selection>
+      <selection name="Joy Mishka" id="45431529" num="9" drawn="9" status="G" jockey="F Goncalves" weightStones="8" weightPounds="9" age="2" trainer="G Scarpello" lastRuns="3" __key="id">
+        <price id="38367397" time="17:25:09" fract="10/1" dec="11.0000" mktnum="0" mkttype="B" timestamp="1561825510277" __key="id">
+        </price>
+        <price id="38367434" time="17:28:16" fract="11/1" dec="12.0000" mktnum="1" mkttype="B" timestamp="1561825696811" __key="id">
+        </price>
+        <price id="38367456" time="17:30:04" fract="12/1" dec="13.0000" mktnum="1" mkttype="B" timestamp="1561825805295" __key="id">
+        </price>
+        <price id="38367567" time="17:37:32" fract="12/1" dec="13.0000" mktnum="0" mkttype="S" timestamp="1561826253162" __key="id">
+        </price>
+        <price id="38367647" time="17:44:15" fract="12/1" dec="13.0000" mktnum="0" mkttype="S" timestamp="1561826656097" __key="id">
+        </price>
+      </selection>
+      <selection name="De Beauvoir" id="45431531" num="10" drawn="10" status="G" jockey="J Villagra" weightStones="8" weightPounds="9" age="2" trainer="N Gaitan" lastRuns="2422" __key="id">
+        <price id="38367398" time="17:25:09" fract="7/2" dec="4.5000" mktnum="0" mkttype="B" timestamp="1561825510278" __key="id">
+        </price>
+        <price id="38367451" time="17:29:41" fract="10/3" dec="4.3333" mktnum="1" mkttype="B" timestamp="1561825782065" __key="id">
+        </price>
+        <price id="38367457" time="17:30:04" fract="3/1" dec="4.0000" mktnum="1" mkttype="B" timestamp="1561825805296" __key="id">
+        </price>
+        <price id="38367477" time="17:31:15" fract="11/4" dec="3.7500" mktnum="1" mkttype="B" timestamp="1561825875607" __key="id">
+        </price>
+        <price id="38367559" time="17:37:32" fract="11/4" dec="3.7500" mktnum="0" mkttype="S" timestamp="1561826253163" __key="id">
+        </price>
+        <price id="38367635" time="17:44:15" fract="11/4" dec="3.7500" mktnum="0" mkttype="S" timestamp="1561826656098" __key="id">
+        </price>
+      </selection>
+      <bar>
+      </bar>
+      <result id="4290535" comments="4TH NO.10 11/4CF3" favouritenews="SECOND &amp; THIRD &amp; NO.10 11/4" weighedIn="17:43:58" nonrunners="1" ran="9" settlingstatus="R" statuscode="W" message="Weighed In">
+        <position num="1" id="11796477" runnernumber="8" trainer="N Mayansky" name="Beauty Romance" position="1" photo="N" selectionref="45431528" sp="4/1" />
+        <position num="2" id="11796479" fav="cf3" runnernumber="7" name="Ever Beautiful" position="2" photo="N" selectionref="45431526" sp="11/4" />
+        <position num="3" id="11796478" fav="cf3" runnernumber="6" name="Funguera" position="3" photo="N" selectionref="45431527" sp="11/4" />
+      </result>
+      <racebet id="9168840" bettype="F" amount="18.64" instance="1" type="csf">
+        <betplace position="1" id="11123636" selectionid="45431528" amount="0" />
+        <betplace position="2" id="11123637" selectionid="45431526" amount="0" />
+      </racebet>
+      <market time="17:25:10" id="3029501" mkttype="B" supplier="S" mktnum="0" />
+      <market time="17:27:31" id="3029505" mkttype="B" supplier="S" mktnum="1" />
+      <market time="17:37:32" id="3029513" fieldmoney="136.03" mkttype="S" supplier="S" mktnum="0" />
+    </event>
+  </meeting>
+</data>
